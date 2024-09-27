@@ -8,7 +8,7 @@ Exam vouchers for sale;
 * CompTIA Security+ Exam Voucher
 * CompTIA Linux+ Exam Voucher
 * CompTIA Cloud+ Exam Voucher
-* CompTIA Server+ Exam Voucher
+* CompTIA Server+ Exam Voucher.com
 * CompTIA Project+ Exam Voucher
 * CompTIA CySA+ (Cybersecurity Analyst) Exam Voucher
 * CompTIA CASP+ (Advanced Security Practitioner) Exam Voucher
