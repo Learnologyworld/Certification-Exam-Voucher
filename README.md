@@ -45,4 +45,4 @@ Exam vouchers for sale;
 Don't miss this opportunity to thrive with IT certifications. Visit learnologyworld dot come or look up Learnologyworld on your preferred search engine today to purchase your voucher now and use it to schedule your certification exams at Pearson Vue test center or remote Pearson Vue online OnVUE platform.
 
 
-![image](https://github.com/user-attachments/assets/e64c3d19-004d-42d5-ac64-22f45187b646)
+
